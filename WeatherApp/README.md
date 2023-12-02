@@ -1,0 +1,1 @@
+This app uses weatherapi.com to get weather information about a selected city with 'requests' library
